@@ -30,7 +30,7 @@ You need to have Node.js and npm installed on your machine.
 
 1. Clone the repository:
     ```
-    git clone https://github.com/akshar625/PassWord_Generator.git
+    git clone https://github.com/akshar625/PassWord_Generator-React.git
     ```
 
 2. Navigate to the project directory:
