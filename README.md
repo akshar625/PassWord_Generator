@@ -35,7 +35,7 @@ You need to have Node.js and npm installed on your machine.
 
 2. Navigate to the project directory:
     ```
-    cd password-generator
+    cd PassWord_Generator-React
     ```
 
 3. Install the dependencies:
